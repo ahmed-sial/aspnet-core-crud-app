@@ -208,4 +208,5 @@ The application supports different environments (Development, Staging, Productio
    - Run `dotnet clean` followed by `dotnet build`
    - Check for missing NuGet packages
 
-[![Watch the video](videos/demonstration-thumbnail.png)](videos/demonstration.mp4)
+
+[![Watch the video](videos/demonstration-thumbnail.png)]([videos/demonstration.mp4](https://ahmed-sial.github.io/aspnet-core-crud-app/))
