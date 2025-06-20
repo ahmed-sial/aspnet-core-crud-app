@@ -209,4 +209,4 @@ The application supports different environments (Development, Staging, Productio
    - Check for missing NuGet packages
 
 
-[![Watch the video](videos/demonstration-thumbnail.png)]([videos/demonstration.mp4](https://ahmed-sial.github.io/aspnet-core-crud-app/))
+[![Watch the video](videos/demonstration-thumbnail.png)](https://ahmed-sial.github.io/aspnet-core-crud-app/)
